@@ -1,1 +1,4 @@
-console.log('Hola');
+
+function saludo(mensaje){
+    console.log(mensaje);
+}
